@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T12:43:45Z",
+            "last_commit": "2026-08-13T11:34:59Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15258
+            "stars": 15263
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T11:57:05Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11283
+            "stars": 11284
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T21:48:38Z",
+            "last_commit": "2026-08-14T01:27:26Z",
             "owner": "neodb-social",
             "repo": "neodb",
             "stars": 868
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T19:38:15Z",
+            "last_commit": "2026-08-13T17:00:18Z",
             "owner": "MbinOrg",
             "repo": "mbin",
             "stars": 427
@@ -295,7 +295,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T23:14:17Z",
+            "last_commit": "2026-08-14T05:29:55Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1231
@@ -325,7 +325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:01:50.058Z",
+    "last_updated": "2026-08-14T06:58:16.599Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
