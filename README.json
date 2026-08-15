@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:34:59Z",
+            "last_commit": "2026-08-14T14:41:16Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15263
+            "stars": 15267
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:57:05Z",
+            "last_commit": "2026-08-14T21:49:27Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11284
+            "stars": 11285
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-13T00:02:09Z",
+            "last_commit": "2026-08-14T23:33:11Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 931
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:27:26Z",
+            "last_commit": "2026-08-15T03:06:35Z",
             "owner": "neodb-social",
             "repo": "neodb",
             "stars": 868
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T17:00:18Z",
+            "last_commit": "2026-08-14T13:55:04Z",
             "owner": "MbinOrg",
             "repo": "mbin",
             "stars": 427
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T05:29:55Z",
+            "last_commit": "2026-08-14T19:16:40Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1231
+            "stars": 1232
           }
         },
         {
@@ -325,7 +325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:58:16.599Z",
+    "last_updated": "2026-08-15T05:57:31.747Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
