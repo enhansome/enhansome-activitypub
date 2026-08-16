@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T14:41:16Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15267
+            "stars": 15268
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T20:16:37Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14548
+            "stars": 14549
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T21:49:27Z",
+            "last_commit": "2026-08-15T14:39:27Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11285
+            "stars": 11288
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T23:33:11Z",
+            "last_commit": "2026-08-15T16:10:52Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 931
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:06:35Z",
+            "last_commit": "2026-08-16T01:20:55Z",
             "owner": "neodb-social",
             "repo": "neodb",
             "stars": 868
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-10T23:25:37Z",
+            "last_commit": "2026-08-16T03:44:39Z",
             "owner": "nextcloud",
             "repo": "social",
             "stars": 498
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-14T13:55:04Z",
+            "last_commit": "2026-08-15T18:55:42Z",
             "owner": "MbinOrg",
             "repo": "mbin",
             "stars": 427
@@ -298,7 +298,7 @@
             "last_commit": "2026-08-14T19:16:40Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1232
+            "stars": 1233
           }
         },
         {
@@ -325,7 +325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:57:31.747Z",
+    "last_updated": "2026-08-16T05:59:06.379Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
