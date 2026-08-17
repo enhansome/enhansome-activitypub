@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T14:41:16Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15268
+            "stars": 15269
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T20:16:37Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14549
+            "stars": 14551
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T14:39:27Z",
+            "last_commit": "2026-08-16T07:38:40Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11288
+            "stars": 11294
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T01:20:55Z",
+            "last_commit": "2026-08-16T19:54:45Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 868
+            "stars": 870
           }
         },
         {
@@ -325,7 +325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:59:06.379Z",
+    "last_updated": "2026-08-17T06:03:58.416Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
