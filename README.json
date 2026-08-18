@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T14:41:16Z",
+            "last_commit": "2026-08-17T13:25:30Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15269
+            "stars": 15268
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:16:37Z",
+            "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14551
+            "stars": 14552
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T07:38:40Z",
+            "last_commit": "2026-08-18T05:28:08Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11294
+            "stars": 11293
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T16:10:52Z",
+            "last_commit": "2026-08-17T21:57:39Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
-            "stars": 931
+            "stars": 932
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-05-15T21:28:17Z",
             "owner": "ckolderup",
             "repo": "postmarks",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -295,7 +295,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:16:40Z",
+            "last_commit": "2026-08-17T12:29:44Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1233
@@ -325,7 +325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:03:58.416Z",
+    "last_updated": "2026-08-18T05:59:14.911Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
