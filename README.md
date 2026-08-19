@@ -29,17 +29,17 @@ Information for developers and implementers.
 
 Services supporting ActivityPub federation.
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,268 | 🐛 691 | 🌐 TypeScript | 📅 2026-08-17 - Video streaming platform with ActivityPub and WebTorrent.
-* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,552 | 🐛 122 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
-* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,293 | 🐛 2,531 | 🌐 TypeScript | 📅 2026-08-18 - Microblogging service based on ActivityPub.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,270 | 🐛 686 | 🌐 TypeScript | 📅 2026-08-18 - Video streaming platform with ActivityPub and WebTorrent.
+* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,554 | 🐛 124 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
+* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,297 | 🐛 2,534 | 🌐 TypeScript | 📅 2026-08-19 - Microblogging service based on ActivityPub.
 * [Plume](https://github.com/Plume-org/Plume) ⭐ 2,221 | 🐛 166 | 🌐 Rust | 📅 2025-04-08 - Federated blogging engine with ActivityPub.
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,174 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - a multi-domain ActivityPub social network server, written in Python.
-* [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 932 | 🐛 440 | 🌐 Elixir | 📅 2026-08-17 - a federated digital spaces, written in Elixir
+* [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 933 | 🐛 440 | 🌐 Elixir | 📅 2026-08-17 - a federated digital spaces, written in Elixir
 * [Rustodon](https://github.com/rustodon/rustodon) ⭐ 882 | 🐛 36 | 🌐 Rust | 📅 2021-07-05 - A Mastodon-compatible, ActivityPub-speaking server in Rust.
-* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 870 | 🐛 101 | 🌐 Python | 📅 2026-08-16 - an ActivityPub server tracking and review what you read/watch/listen/play.
+* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 870 | 🐛 102 | 🌐 Python | 📅 2026-08-18 - an ActivityPub server tracking and review what you read/watch/listen/play.
 * [Postmarks](https://github.com/ckolderup/postmarks) ⭐ 547 | 🐛 78 | 🌐 JavaScript | 📅 2026-05-15 - A single-user bookmarking server for the Fediverse.
 * [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 498 | 🐛 119 | 🌐 PHP | 📅 2026-08-16 - Federated social network application on Nextcloud.
-* [Mbin](https://github.com/MbinOrg/mbin) ⭐ 427 | 🐛 139 | 🌐 PHP | 📅 2026-08-15 - A federated content aggregator, content rating, dissussion and microblogging platform
+* [Mbin](https://github.com/MbinOrg/mbin) ⭐ 427 | 🐛 140 | 🌐 PHP | 📅 2026-08-15 - A federated content aggregator, content rating, dissussion and microblogging platform
 * [Shuttlecraft](https://github.com/benbrown/shuttlecraft) ⭐ 271 | 🐛 50 | 🌐 JavaScript | 📅 2024-05-28 - A single-user ActivityPub server.
 * [anfora](https://github.com/anforaProject/anfora) ⭐ 231 | 🐛 16 | 🌐 Python | 📅 2022-01-23 - Self-hosted photo gallery social network.
 * [Social Inbox](https://github.com/hyphacoop/social.distributed.press) ⭐ 30 | 🐛 25 | 🌐 TypeScript | 📅 2025-07-29 - Social Inbox API enables your website to receive followers and their comments from the Fediverse
@@ -90,7 +90,7 @@ A little help for implementing ActivityPub.
 
 Connecting the ActivityPub federation with another federation.
 
-* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,233 | 🐛 212 | 🌐 Python | 📅 2026-08-17 - A bridge between IndieWeb and ActivityPub, OStatus.
+* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,233 | 🐛 211 | 🌐 Python | 📅 2026-08-19 - A bridge between IndieWeb and ActivityPub, OStatus.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) ⭐ 581 | 🐛 24 | 🌐 JavaScript | 📅 2021-10-12 - An RSS to ActivityPub converter.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Hatsu](https://hatsu.cli.rs/) - A self-hosted bridge that interacts with fediverse on behalf of your static site.
@@ -107,4 +107,4 @@ Connecting the ActivityPub federation with another federation.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

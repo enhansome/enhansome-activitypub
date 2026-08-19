@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:25:30Z",
+            "last_commit": "2026-08-18T11:57:29Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15268
+            "stars": 15270
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14552
+            "stars": 14554
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T05:28:08Z",
+            "last_commit": "2026-08-19T05:19:12Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11293
+            "stars": 11297
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-17T21:57:39Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
-            "stars": 932
+            "stars": 933
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T19:54:45Z",
+            "last_commit": "2026-08-18T13:28:02Z",
             "owner": "neodb-social",
             "repo": "neodb",
             "stars": 870
@@ -295,7 +295,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T12:29:44Z",
+            "last_commit": "2026-08-19T03:49:54Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1233
@@ -325,7 +325,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:59:14.911Z",
+    "last_updated": "2026-08-19T06:00:37.224Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
