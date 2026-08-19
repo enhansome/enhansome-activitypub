@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45213667,
             "language": "TypeScript",
             "last_commit": "2026-08-18T11:57:29Z",
             "owner": "Chocobozzz",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170729130,
             "language": "Rust",
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14554
+            "stars": 14556
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:19:12Z",
+            "last_commit": "2026-08-19T11:58:40Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11297
+            "stars": 11298
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130482471,
             "language": "Rust",
             "last_commit": "2025-04-08T19:40:59Z",
             "owner": "Plume-org",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562269750,
             "language": "Python",
             "last_commit": "2024-08-28T13:32:13Z",
             "owner": "jointakahe",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310862177,
             "language": "Elixir",
             "last_commit": "2026-08-17T21:57:39Z",
             "owner": "bonfire-networks",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114797218,
             "language": "Rust",
             "last_commit": "2021-07-05T05:19:13Z",
             "owner": "rustodon",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406083592,
             "language": "Python",
             "last_commit": "2026-08-18T13:28:02Z",
             "owner": "neodb-social",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591591503,
             "language": "JavaScript",
             "last_commit": "2026-05-15T21:28:17Z",
             "owner": "ckolderup",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147499346,
             "language": "PHP",
             "last_commit": "2026-08-16T03:44:39Z",
             "owner": "nextcloud",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 704255347,
             "language": "PHP",
             "last_commit": "2026-08-15T18:55:42Z",
             "owner": "MbinOrg",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 570962490,
             "language": "JavaScript",
             "last_commit": "2024-05-28T04:34:52Z",
             "owner": "benbrown",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127783000,
             "language": "Python",
             "last_commit": "2022-01-23T12:49:30Z",
             "owner": "anforaProject",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671639465,
             "language": "TypeScript",
             "last_commit": "2025-07-29T20:09:35Z",
             "owner": "hyphacoop",
@@ -206,18 +220,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 739512910,
             "language": "JavaScript",
             "last_commit": "2024-12-05T21:51:56Z",
             "owner": "hyphacoop",
             "repo": "reader.distributed.press",
             "stars": 20
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GoToSocial",
-          "description": "A ActivityPub social network server, written in Golang.",
-          "children": []
         }
       ],
       "title": "Services"
@@ -232,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148878393,
             "language": "JavaScript",
             "last_commit": "2025-03-03T02:56:11Z",
             "owner": "dariusk",
@@ -246,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130584599,
             "language": "Python",
             "last_commit": "2020-05-25T13:09:37Z",
             "owner": "dsblank",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98695778,
             "language": "Python",
             "last_commit": "2021-05-24T06:45:40Z",
             "owner": "tOkeshu",
@@ -274,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88553333,
             "language": "Python",
             "last_commit": "2018-08-28T23:51:57Z",
             "owner": "rowanlupton",
@@ -294,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100134877,
             "language": "Python",
             "last_commit": "2026-08-19T03:49:54Z",
             "owner": "snarfed",
@@ -308,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153052612,
             "language": "JavaScript",
             "last_commit": "2021-10-12T16:16:14Z",
             "owner": "dariusk",
@@ -317,16 +332,12 @@
         }
       ],
       "title": "Bridges"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:00:37.224Z",
+    "last_updated": "2026-08-19T12:13:11.523Z",
     "original_repository": "BasixKOR/awesome-activitypub",
+    "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
     "enhanced_repository_description": null,

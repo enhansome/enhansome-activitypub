@@ -30,13 +30,13 @@ Information for developers and implementers.
 Services supporting ActivityPub federation.
 
 * [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,270 | 🐛 686 | 🌐 TypeScript | 📅 2026-08-18 - Video streaming platform with ActivityPub and WebTorrent.
-* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,554 | 🐛 124 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
-* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,297 | 🐛 2,534 | 🌐 TypeScript | 📅 2026-08-19 - Microblogging service based on ActivityPub.
+* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,556 | 🐛 123 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
+* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,298 | 🐛 2,530 | 🌐 TypeScript | 📅 2026-08-19 - Microblogging service based on ActivityPub.
 * [Plume](https://github.com/Plume-org/Plume) ⭐ 2,221 | 🐛 166 | 🌐 Rust | 📅 2025-04-08 - Federated blogging engine with ActivityPub.
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,174 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - a multi-domain ActivityPub social network server, written in Python.
 * [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 933 | 🐛 440 | 🌐 Elixir | 📅 2026-08-17 - a federated digital spaces, written in Elixir
 * [Rustodon](https://github.com/rustodon/rustodon) ⭐ 882 | 🐛 36 | 🌐 Rust | 📅 2021-07-05 - A Mastodon-compatible, ActivityPub-speaking server in Rust.
-* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 870 | 🐛 102 | 🌐 Python | 📅 2026-08-18 - an ActivityPub server tracking and review what you read/watch/listen/play.
+* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 870 | 🐛 103 | 🌐 Python | 📅 2026-08-18 - an ActivityPub server tracking and review what you read/watch/listen/play.
 * [Postmarks](https://github.com/ckolderup/postmarks) ⭐ 547 | 🐛 78 | 🌐 JavaScript | 📅 2026-05-15 - A single-user bookmarking server for the Fediverse.
 * [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 498 | 🐛 119 | 🌐 PHP | 📅 2026-08-16 - Federated social network application on Nextcloud.
 * [Mbin](https://github.com/MbinOrg/mbin) ⭐ 427 | 🐛 140 | 🌐 PHP | 📅 2026-08-15 - A federated content aggregator, content rating, dissussion and microblogging platform
