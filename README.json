@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:57:29Z",
+            "last_commit": "2026-08-19T14:29:04Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15270
+            "stars": 15269
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14556
+            "stars": 14559
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-04-08T19:40:59Z",
             "owner": "Plume-org",
             "repo": "Plume",
-            "stars": 2221
+            "stars": 2222
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-28T13:32:13Z",
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1174
+            "stars": 1173
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-17T21:57:39Z",
+            "last_commit": "2026-08-19T17:57:58Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 933
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-15T18:55:42Z",
             "owner": "MbinOrg",
             "repo": "mbin",
-            "stars": 427
+            "stars": 426
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-19T03:49:54Z",
+            "last_commit": "2026-08-20T00:04:28Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1233
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:11.523Z",
+    "last_updated": "2026-08-20T06:00:49.181Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
