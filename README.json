@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T14:29:04Z",
+            "last_commit": "2026-08-20T15:25:40Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15269
+            "stars": 15272
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14559
+            "stars": 14563
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:58:40Z",
+            "last_commit": "2026-08-21T02:32:37Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11298
+            "stars": 11299
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-04-08T19:40:59Z",
             "owner": "Plume-org",
             "repo": "Plume",
-            "stars": 2222
+            "stars": 2221
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-28T13:32:13Z",
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1173
+            "stars": 1172
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-19T17:57:58Z",
+            "last_commit": "2026-08-20T11:56:13Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 933
@@ -105,7 +105,7 @@
             "last_commit": "2021-07-05T05:19:13Z",
             "owner": "rustodon",
             "repo": "rustodon",
-            "stars": 882
+            "stars": 878
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-18T13:28:02Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2020-05-25T13:09:37Z",
             "owner": "dsblank",
             "repo": "activitypub",
-            "stars": 195
+            "stars": 194
           }
         },
         {
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-20T00:04:28Z",
+            "last_commit": "2026-08-20T22:39:52Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1233
+            "stars": 1232
           }
         },
         {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T06:00:49.181Z",
+    "last_updated": "2026-08-21T06:02:33.794Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
