@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T15:25:40Z",
+            "last_commit": "2026-08-21T11:58:20Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15272
+            "stars": 15273
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14563
+            "stars": 14564
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T02:32:37Z",
+            "last_commit": "2026-08-22T05:49:36Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11299
+            "stars": 11301
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-20T11:56:13Z",
+            "last_commit": "2026-08-21T20:55:00Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 933
@@ -135,7 +135,7 @@
             "last_commit": "2026-05-15T21:28:17Z",
             "owner": "ckolderup",
             "repo": "postmarks",
-            "stars": 547
+            "stars": 546
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-20T22:39:52Z",
+            "last_commit": "2026-08-22T03:56:31Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1232
@@ -327,7 +327,7 @@
             "last_commit": "2021-10-12T16:16:14Z",
             "owner": "dariusk",
             "repo": "rss-to-activitypub",
-            "stars": 581
+            "stars": 580
           }
         }
       ],
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:02:33.794Z",
+    "last_updated": "2026-08-22T05:59:01.597Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
