@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T11:58:20Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15273
+            "stars": 15274
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14564
+            "stars": 14567
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T05:49:36Z",
+            "last_commit": "2026-08-23T01:23:33Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11301
+            "stars": 11302
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-21T20:55:00Z",
+            "last_commit": "2026-08-22T12:00:38Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 933
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 406083592,
             "language": "Python",
-            "last_commit": "2026-08-18T13:28:02Z",
+            "last_commit": "2026-08-23T03:18:16Z",
             "owner": "neodb-social",
             "repo": "neodb",
             "stars": 871
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 147499346,
             "language": "PHP",
-            "last_commit": "2026-08-16T03:44:39Z",
+            "last_commit": "2026-08-23T03:55:58Z",
             "owner": "nextcloud",
             "repo": "social",
             "stars": 498
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-22T03:56:31Z",
+            "last_commit": "2026-08-22T21:18:12Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1232
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:59:01.597Z",
+    "last_updated": "2026-08-23T05:59:35.262Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
