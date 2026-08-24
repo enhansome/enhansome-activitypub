@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T11:58:20Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15274
+            "stars": 15275
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14567
+            "stars": 14566
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-22T12:00:38Z",
+            "last_commit": "2026-08-23T13:30:18Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 933
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 406083592,
             "language": "Python",
-            "last_commit": "2026-08-23T03:18:16Z",
+            "last_commit": "2026-08-23T20:54:39Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 871
+            "stars": 872
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-22T21:18:12Z",
+            "last_commit": "2026-08-24T03:27:12Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1232
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:59:35.262Z",
+    "last_updated": "2026-08-24T06:07:10.042Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
