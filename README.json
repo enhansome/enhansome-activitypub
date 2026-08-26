@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:55:25Z",
+            "last_commit": "2026-08-25T14:41:35Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15278
+            "stars": 15277
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14566
+            "stars": 14567
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:59:00Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11303
+            "stars": 11304
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-24T22:00:05Z",
+            "last_commit": "2026-08-26T00:55:24Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
-            "stars": 933
+            "stars": 934
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 406083592,
             "language": "Python",
-            "last_commit": "2026-08-25T04:25:39Z",
+            "last_commit": "2026-08-25T11:06:37Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 872
+            "stars": 874
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 704255347,
             "language": "PHP",
-            "last_commit": "2026-08-15T18:55:42Z",
+            "last_commit": "2026-08-25T21:15:35Z",
             "owner": "MbinOrg",
             "repo": "mbin",
             "stars": 426
@@ -195,7 +195,7 @@
             "last_commit": "2022-01-23T12:49:30Z",
             "owner": "anforaProject",
             "repo": "anfora",
-            "stars": 231
+            "stars": 229
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-25T03:05:10Z",
+            "last_commit": "2026-08-25T20:13:42Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
             "stars": 1233
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:31.475Z",
+    "last_updated": "2026-08-26T06:03:47.353Z",
     "original_repository": "BasixKOR/awesome-activitypub",
     "original_repository_id": 136705567,
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
