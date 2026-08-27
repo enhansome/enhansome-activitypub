@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14568
+            "stars": 14569
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-27T10:58:51Z",
+            "last_commit": "2026-08-27T14:38:06Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 934
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-25T11:06:37Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 876
+            "stars": 877
           }
         },
         {
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-25T20:13:42Z",
+            "last_commit": "2026-08-27T15:40:54Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1232
+            "stars": 1231
           }
         },
         {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:28.227Z",
+    "last_updated": "2026-08-27T16:47:08.713Z",
     "original_repository_info": {
       "archived": false,
       "id": 136705567,
