@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T05:19:19Z",
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14567
+            "stars": 14568
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:59:00Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11304
+            "stars": 11305
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-26T00:55:24Z",
+            "last_commit": "2026-08-27T10:58:51Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 934
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-25T11:06:37Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 874
+            "stars": 876
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-25T21:15:35Z",
             "owner": "MbinOrg",
             "repo": "mbin",
-            "stars": 426
+            "stars": 425
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-08-25T20:13:42Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1233
+            "stars": 1232
           }
         },
         {
@@ -335,9 +335,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:03:47.353Z",
-    "original_repository": "BasixKOR/awesome-activitypub",
-    "original_repository_id": 136705567,
+    "last_updated": "2026-08-27T11:18:28.227Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 136705567,
+      "language": null,
+      "last_commit": "2024-12-17T04:20:29Z",
+      "owner": "BasixKOR",
+      "repo": "awesome-activitypub",
+      "stars": 1192
+    },
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
     "enhanced_repository_description": null,
