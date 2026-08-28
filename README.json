@@ -12,11 +12,12 @@
             "archived": false,
             "id": 45213667,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T14:41:35Z",
+            "last_commit": "2026-08-28T14:50:28Z",
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15277
-          }
+            "stars": 15281
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "LemmyNet",
             "repo": "lemmy",
             "stars": 14569
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:59:00Z",
+            "last_commit": "2026-08-28T14:13:05Z",
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11305
-          }
+            "stars": 11306
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-04-08T19:40:59Z",
             "owner": "Plume-org",
             "repo": "Plume",
-            "stars": 2221
-          }
+            "stars": 2222
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jointakahe",
             "repo": "takahe",
             "stars": 1172
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 310862177,
             "language": "Elixir",
-            "last_commit": "2026-08-27T14:38:06Z",
+            "last_commit": "2026-08-28T07:52:54Z",
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 934
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "rustodon",
             "repo": "rustodon",
             "stars": 878
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2026-08-25T11:06:37Z",
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 877
-          }
+            "stars": 878
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ckolderup",
             "repo": "postmarks",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "nextcloud",
             "repo": "social",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 704255347,
             "language": "PHP",
-            "last_commit": "2026-08-25T21:15:35Z",
+            "last_commit": "2026-08-27T19:31:29Z",
             "owner": "MbinOrg",
             "repo": "mbin",
             "stars": 425
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "benbrown",
             "repo": "shuttlecraft",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "anforaProject",
             "repo": "anfora",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "hyphacoop",
             "repo": "social.distributed.press",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "hyphacoop",
             "repo": "reader.distributed.press",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         }
       ],
       "title": "Services"
@@ -247,7 +262,8 @@
             "owner": "dariusk",
             "repo": "express-activitypub",
             "stars": 602
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "dsblank",
             "repo": "activitypub",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "tOkeshu",
             "repo": "activitypub-example",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "rowanlupton",
             "repo": "pylodon",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         }
       ],
       "title": "Implementations"
@@ -309,11 +328,12 @@
             "archived": false,
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-27T15:40:54Z",
+            "last_commit": "2026-08-28T12:28:33Z",
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1231
-          }
+            "stars": 1232
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         },
         {
           "node_type": "item",
@@ -328,14 +348,15 @@
             "owner": "dariusk",
             "repo": "rss-to-activitypub",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T17:41:41.500Z"
         }
       ],
       "title": "Bridges"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:47:08.713Z",
+    "last_updated": "2026-08-28T17:41:41.500Z",
     "original_repository_info": {
       "archived": false,
       "id": 136705567,
