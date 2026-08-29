@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+            "homepage": "https://joinpeertube.org/",
             "id": 45213667,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:50:28Z",
+            "open_issues": 683,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15281
+            "stars": 15283,
+            "topics": [
+              "activitypub",
+              "angular",
+              "decentralized",
+              "p2p",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -26,12 +37,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐀 A decentralised discussion platform for communities.",
+            "homepage": "https://join-lemmy.org",
             "id": 170729130,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-18T05:19:19Z",
+            "open_issues": 128,
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14569
+            "stars": 14571,
+            "topics": [
+              "activitypub",
+              "chat",
+              "fediverse",
+              "lemmy",
+              "link-aggregator",
+              "reddit",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -42,12 +66,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌎 A completely free and open interplanetary-microblogging platform 🚀",
+            "homepage": "https://misskey-hub.net/",
             "id": 77326607,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:13:05Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:14:23Z",
+            "open_issues": 2533,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11306
+            "stars": 11305,
+            "topics": [
+              "activitypub",
+              "federation",
+              "fediverse",
+              "microblog",
+              "misskey"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -58,12 +93,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)",
+            "homepage": "https://joinplu.me",
             "id": 130482471,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-08T19:40:59Z",
+            "open_issues": 166,
             "owner": "Plume-org",
             "repo": "Plume",
-            "stars": 2222
+            "stars": 2222,
+            "topics": [
+              "activitypub",
+              "activitystreams",
+              "blog",
+              "blog-engine",
+              "decentralization",
+              "diesel",
+              "federation",
+              "rocket",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -74,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ActivityPub/Fediverse server",
+            "homepage": null,
             "id": 562269750,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-28T13:32:13Z",
+            "open_issues": 83,
             "owner": "jointakahe",
             "repo": "takahe",
-            "stars": 1172
+            "stars": 1173,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -90,12 +145,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.",
+            "homepage": "https://bonfirenetworks.org",
             "id": 310862177,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2026-08-28T07:52:54Z",
+            "open_issues": 435,
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
-            "stars": 934
+            "stars": 934,
+            "topics": [
+              "activitypub",
+              "collaborative",
+              "cooperative",
+              "decentralized",
+              "elixir",
+              "federated",
+              "fediverse",
+              "framework",
+              "mutual-aid",
+              "phoenix",
+              "phoenix-liveview",
+              "self-hosted",
+              "social-network",
+              "surface",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -106,12 +182,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mastodon-compatible, ActivityPub-speaking server in Rust",
+            "homepage": "https://rustodon.glitch.social",
             "id": 114797218,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2021-07-05T05:19:13Z",
+            "open_issues": 36,
             "owner": "rustodon",
             "repo": "rustodon",
-            "stars": 878
+            "stars": 878,
+            "topics": [
+              "activitypub",
+              "federated",
+              "mastodon",
+              "microblog",
+              "rust",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -122,12 +210,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and ATProto.",
+            "homepage": "https://neodb.net",
             "id": 406083592,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T11:06:37Z",
+            "open_issues": 108,
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 878
+            "stars": 878,
+            "topics": [
+              "activitypub",
+              "atproto",
+              "bluesky",
+              "books",
+              "douban",
+              "fediverse",
+              "games",
+              "goodreads",
+              "letterboxd",
+              "mastodon",
+              "movies",
+              "music",
+              "musicbrainz",
+              "openlibrary",
+              "podcasts",
+              "storygraph",
+              "threads-net",
+              "tv-shows",
+              "wikidata",
+              "worldcat"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -138,12 +252,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a single-user bookmarking website designed to live on the Fediverse",
+            "homepage": "https://postmarks.glitch.me",
             "id": 591591503,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-15T21:28:17Z",
+            "open_issues": 78,
             "owner": "ckolderup",
             "repo": "postmarks",
-            "stars": 546
+            "stars": 546,
+            "topics": [
+              "activitypub",
+              "activitypub-server",
+              "bookmark-manager",
+              "bookmarking-server",
+              "bookmarks",
+              "bookmarks-manager",
+              "mastodon",
+              "mastodon-compatible"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -154,12 +282,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎉 Social can be used for work, or to connect to the fediverse!",
+            "homepage": "https://apps.nextcloud.com/apps/social",
             "id": 147499346,
             "language": "PHP",
-            "last_commit": "2026-08-23T03:55:58Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T01:03:03Z",
+            "open_issues": 121,
             "owner": "nextcloud",
             "repo": "social",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "activitypub",
+              "federation",
+              "fediverse",
+              "hacktoberfest",
+              "mastodon",
+              "nextcloud",
+              "nextcloud-app",
+              "nextcloud-social",
+              "open-source",
+              "social",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -170,12 +315,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mbin: a federated content aggregator, voting, discussion and microblogging platform",
+            "homepage": "https://joinmbin.org",
             "id": 704255347,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T19:31:29Z",
+            "open_issues": 140,
             "owner": "MbinOrg",
             "repo": "mbin",
-            "stars": 425
+            "stars": 425,
+            "topics": [
+              "activitypub",
+              "content-ratings",
+              "federated",
+              "fork",
+              "kbin",
+              "lemmy",
+              "link-aggregator",
+              "mbin",
+              "micro-blogging",
+              "microblogging",
+              "php8",
+              "reddit",
+              "social-network",
+              "symfony",
+              "threadiverse"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -186,12 +352,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a single user activitypub server - join the federation!",
+            "homepage": "https://shuttlecraft.net",
             "id": 570962490,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-28T04:34:52Z",
+            "open_issues": 50,
             "owner": "benbrown",
             "repo": "shuttlecraft",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "activitypub",
+              "benbrown",
+              "blogging",
+              "fediverse",
+              "indieweb",
+              "microblogging",
+              "rss",
+              "socialmedia"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -202,12 +382,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏺 Self-hosted photo gallery social network. Under development",
+            "homepage": null,
             "id": 127783000,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-01-23T12:49:30Z",
+            "open_issues": 16,
             "owner": "anforaProject",
             "repo": "anfora",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "activitypub",
+              "gallery",
+              "photo-sharing",
+              "python",
+              "social-network"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -218,12 +409,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Social Inbox for Decentralized Publishing and ActivityPub.",
+            "homepage": "https://hypha.coop/dripline/announcing-dp-social-inbox/",
             "id": 671639465,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-07-29T20:09:35Z",
+            "open_issues": 25,
             "owner": "hyphacoop",
             "repo": "social.distributed.press",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "activitypub",
+              "distributed-press",
+              "p2p",
+              "social-inbox"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -234,12 +435,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A social media RSS: peer-to-peer, offline ActivityPub client for reading and following microblogs on the Fediverse.",
+            "homepage": "https://reader.distributed.press/",
             "id": 739512910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-05T21:51:56Z",
+            "open_issues": 6,
             "owner": "hyphacoop",
             "repo": "reader.distributed.press",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "activitypub",
+              "activitypub-client",
+              "distributed-press",
+              "local-first",
+              "offline-first",
+              "p2p",
+              "rss-feed",
+              "rss-reader",
+              "social-media",
+              "social-reader"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         }
@@ -256,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple reference implementation of an ActivityPub server using Express.js",
+            "homepage": null,
             "id": 148878393,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-03T02:56:11Z",
+            "open_issues": 2,
             "owner": "dariusk",
             "repo": "express-activitypub",
-            "stars": 602
+            "stars": 602,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -272,12 +494,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general Python ActivityPub library",
+            "homepage": null,
             "id": 130584599,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-05-25T13:09:37Z",
+            "open_issues": 5,
             "owner": "dsblank",
             "repo": "activitypub",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "activitypub",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -288,12 +518,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ActivityPub server implementation example",
+            "homepage": null,
             "id": 98695778,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2021-05-24T06:45:40Z",
+            "open_issues": 2,
             "owner": "tOkeshu",
             "repo": "activitypub-example",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "activitypub"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -304,12 +541,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flask-based ActivityPub server",
+            "homepage": null,
             "id": 88553333,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-28T23:51:57Z",
+            "open_issues": 8,
             "owner": "rowanlupton",
             "repo": "pylodon",
-            "stars": 100
+            "stars": 101,
+            "topics": [
+              "activipy",
+              "activitypub",
+              "activitystreams",
+              "federated",
+              "federation",
+              "flask",
+              "flask-login",
+              "flask-pymongo",
+              "flask-restful",
+              "jinja2",
+              "mastodon-social-network",
+              "mongodb",
+              "python3",
+              "webfinger"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         }
@@ -326,12 +583,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌉 A bridge between decentralized social networks",
+            "homepage": "https://fed.brid.gy",
             "id": 100134877,
             "language": "Python",
-            "last_commit": "2026-08-28T12:28:33Z",
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-28T23:41:26Z",
+            "open_issues": 213,
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1232
+            "stars": 1232,
+            "topics": [
+              "activitypub",
+              "atproto",
+              "bluesky",
+              "fediverse",
+              "indieweb"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         },
@@ -342,12 +610,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An RSS to ActivityPub converter.",
+            "homepage": null,
             "id": 153052612,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-12T16:16:14Z",
+            "open_issues": 24,
             "owner": "dariusk",
             "repo": "rss-to-activitypub",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "activitypub",
+              "rss"
+            ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
         }
@@ -356,15 +632,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:41:41.500Z",
+    "last_updated": "2026-08-29T04:35:12.962Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of ActivityPub based projects",
+      "homepage": null,
       "id": 136705567,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-12-17T04:20:29Z",
+      "open_issues": 9,
       "owner": "BasixKOR",
       "repo": "awesome-activitypub",
-      "stars": 1192
+      "stars": 1193,
+      "topics": [
+        "activitypub",
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "b1591f93ded26168c6baf38501588fd30b96143b",
     "enhanced_repository": "enhansome/enhansome-activitypub",
