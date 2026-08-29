@@ -29,9 +29,9 @@ Information for developers and implementers.
 
 Services supporting ActivityPub federation.
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,283 | 🐛 683 | 🌐 TypeScript | 📅 2026-08-28 - Video streaming platform with ActivityPub and WebTorrent.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,283 | 🐛 682 | 🌐 TypeScript | 📅 2026-08-28 - Video streaming platform with ActivityPub and WebTorrent.
 * [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,571 | 🐛 128 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
-* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,305 | 🐛 2,533 | 🌐 TypeScript | 📅 2026-08-29 - Microblogging service based on ActivityPub.
+* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,304 | 🐛 2,537 | 🌐 TypeScript | 📅 2026-08-29 - Microblogging service based on ActivityPub.
 * [Plume](https://github.com/Plume-org/Plume) ⭐ 2,222 | 🐛 166 | 🌐 Rust | 📅 2025-04-08 - Federated blogging engine with ActivityPub.
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,173 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - a multi-domain ActivityPub social network server, written in Python.
 * [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 934 | 🐛 435 | 🌐 Elixir | 📅 2026-08-28 - a federated digital spaces, written in Elixir

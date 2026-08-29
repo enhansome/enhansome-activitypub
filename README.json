@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:50:28Z",
-            "open_issues": 683,
+            "open_issues": 682,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
             "stars": 15283,
@@ -72,10 +72,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-29T03:14:23Z",
-            "open_issues": 2533,
+            "open_issues": 2537,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11305,
+            "stars": 11304,
             "topics": [
               "activitypub",
               "federation",
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:12.962Z",
+    "last_updated": "2026-08-29T11:47:00.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
