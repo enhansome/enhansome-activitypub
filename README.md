@@ -29,13 +29,13 @@ Information for developers and implementers.
 
 Services supporting ActivityPub federation.
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,288 | 🐛 683 | 🌐 TypeScript | 📅 2026-08-28 - Video streaming platform with ActivityPub and WebTorrent.
-* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,573 | 🐛 128 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
-* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,305 | 🐛 2,535 | 🌐 TypeScript | 📅 2026-08-30 - Microblogging service based on ActivityPub.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,290 | 🐛 684 | 🌐 TypeScript | 📅 2026-08-28 - Video streaming platform with ActivityPub and WebTorrent.
+* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,576 | 🐛 129 | 🌐 Rust | 📅 2026-08-18 - Building a federated alternative to reddit in rust.
+* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,308 | 🐛 2,537 | 🌐 TypeScript | 📅 2026-08-30 - Microblogging service based on ActivityPub.
 * [Plume](https://github.com/Plume-org/Plume) ⭐ 2,222 | 🐛 166 | 🌐 Rust | 📅 2025-04-08 - Federated blogging engine with ActivityPub.
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,173 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - a multi-domain ActivityPub social network server, written in Python.
-* [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 935 | 🐛 437 | 🌐 Elixir | 📅 2026-08-29 - a federated digital spaces, written in Elixir
-* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 879 | 🐛 109 | 🌐 Python | 📅 2026-08-25 - an ActivityPub server tracking and review what you read/watch/listen/play.
+* [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 936 | 🐛 439 | 🌐 Elixir | 📅 2026-08-30 - a federated digital spaces, written in Elixir
+* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 880 | 🐛 104 | 🌐 Python | 📅 2026-08-30 - an ActivityPub server tracking and review what you read/watch/listen/play.
 * [Rustodon](https://github.com/rustodon/rustodon) ⭐ 878 | 🐛 36 | 🌐 Rust | 📅 2021-07-05 - A Mastodon-compatible, ActivityPub-speaking server in Rust.
 * [Postmarks](https://github.com/ckolderup/postmarks) ⭐ 546 | 🐛 78 | 🌐 JavaScript | 📅 2026-05-15 - A single-user bookmarking server for the Fediverse.
 * [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 498 | 🐛 120 | 🌐 PHP | 📅 2026-08-30 - Federated social network application on Nextcloud.
@@ -90,7 +90,7 @@ A little help for implementing ActivityPub.
 
 Connecting the ActivityPub federation with another federation.
 
-* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,232 | 🐛 214 | 🌐 Python | 📅 2026-08-30 - A bridge between IndieWeb and ActivityPub, OStatus.
+* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,232 | 🐛 215 | 🌐 Python | 📅 2026-08-31 - A bridge between IndieWeb and ActivityPub, OStatus.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) ⭐ 580 | 🐛 24 | 🌐 JavaScript | 📅 2021-10-12 - An RSS to ActivityPub converter.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Hatsu](https://hatsu.cli.rs/) - A self-hosted bridge that interacts with fediverse on behalf of your static site.
@@ -107,4 +107,4 @@ Connecting the ActivityPub federation with another federation.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
