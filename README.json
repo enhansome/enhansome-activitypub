@@ -19,7 +19,7 @@
             "open_issues": 689,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15298,
+            "stars": 15309,
             "topics": [
               "activitypub",
               "angular",
@@ -46,7 +46,7 @@
             "open_issues": 131,
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14579,
+            "stars": 14576,
             "topics": [
               "activitypub",
               "chat",
@@ -71,11 +71,11 @@
             "id": 77326607,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T07:19:03Z",
-            "open_issues": 2527,
+            "last_commit": "2026-09-04T03:51:07Z",
+            "open_issues": 2528,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11312,
+            "stars": 11311,
             "topics": [
               "activitypub",
               "federation",
@@ -150,8 +150,8 @@
             "id": 310862177,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-09-02T23:27:14Z",
-            "open_issues": 448,
+            "last_commit": "2026-09-03T18:23:23Z",
+            "open_issues": 452,
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 939,
@@ -187,8 +187,8 @@
             "id": 406083592,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T03:17:46Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-04T01:49:04Z",
+            "open_issues": 100,
             "owner": "neodb-social",
             "repo": "neodb",
             "stars": 881,
@@ -482,7 +482,7 @@
             "open_issues": 2,
             "owner": "dariusk",
             "repo": "express-activitypub",
-            "stars": 602,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
@@ -588,11 +588,11 @@
             "id": 100134877,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-03T01:34:40Z",
+            "last_commit": "2026-09-03T17:45:58Z",
             "open_issues": 216,
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1232,
+            "stars": 1231,
             "topics": [
               "activitypub",
               "atproto",
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T10:04:13.561Z",
+    "last_updated": "2026-09-04T09:54:54.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
