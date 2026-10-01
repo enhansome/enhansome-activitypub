@@ -15,11 +15,11 @@
             "id": 45213667,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T11:43:39Z",
-            "open_issues": 694,
+            "last_commit": "2026-09-30T13:31:44Z",
+            "open_issues": 696,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15341,
+            "stars": 15339,
             "topics": [
               "activitypub",
               "angular",
@@ -42,11 +42,11 @@
             "id": 170729130,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T10:10:23Z",
-            "open_issues": 125,
+            "last_commit": "2026-10-01T11:10:47Z",
+            "open_issues": 127,
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14614,
+            "stars": 14613,
             "topics": [
               "activitypub",
               "chat",
@@ -71,11 +71,11 @@
             "id": 77326607,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T06:01:06Z",
-            "open_issues": 2541,
+            "last_commit": "2026-10-01T09:35:51Z",
+            "open_issues": 2537,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11334,
+            "stars": 11335,
             "topics": [
               "activitypub",
               "federation",
@@ -150,8 +150,8 @@
             "id": 310862177,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-09-30T11:05:59Z",
-            "open_issues": 478,
+            "last_commit": "2026-10-01T11:09:07Z",
+            "open_issues": 481,
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 943,
@@ -191,7 +191,7 @@
             "open_issues": 90,
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "activitypub",
               "atproto",
@@ -271,39 +271,6 @@
               "bookmarks-manager",
               "mastodon",
               "mastodon-compatible"
-            ]
-          },
-          "first_seen": "2026-08-28T17:41:41.500Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Nextcloud Social",
-          "description": "Federated social network application on Nextcloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🎉 Social can be used for work, or to connect to the fediverse!",
-            "homepage": "https://apps.nextcloud.com/apps/social",
-            "id": 147499346,
-            "language": "PHP",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T18:23:22Z",
-            "open_issues": 13,
-            "owner": "nextcloud",
-            "repo": "social",
-            "stars": 503,
-            "topics": [
-              "activitypub",
-              "federation",
-              "fediverse",
-              "hacktoberfest",
-              "mastodon",
-              "nextcloud",
-              "nextcloud-app",
-              "nextcloud-social",
-              "open-source",
-              "social",
-              "social-network"
             ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
@@ -588,7 +555,7 @@
             "id": 100134877,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-30T02:43:00Z",
+            "last_commit": "2026-10-01T04:26:44Z",
             "open_issues": 214,
             "owner": "snarfed",
             "repo": "bridgy-fed",
@@ -632,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:20:37.486Z",
+    "last_updated": "2026-10-01T11:47:22.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
