@@ -72,10 +72,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-01T09:35:51Z",
-            "open_issues": 2538,
+            "open_issues": 2539,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11336,
+            "stars": 11338,
             "topics": [
               "activitypub",
               "federation",
@@ -102,7 +102,7 @@
             "open_issues": 168,
             "owner": "Plume-org",
             "repo": "Plume",
-            "stars": 2223,
+            "stars": 2224,
             "topics": [
               "activitypub",
               "activitystreams",
@@ -233,7 +233,7 @@
             "open_issues": 36,
             "owner": "rustodon",
             "repo": "rustodon",
-            "stars": 877,
+            "stars": 878,
             "topics": [
               "activitypub",
               "federated",
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:21:49.231Z",
+    "last_updated": "2026-10-03T10:35:22.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
