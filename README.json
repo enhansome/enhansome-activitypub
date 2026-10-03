@@ -15,11 +15,11 @@
             "id": 45213667,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T07:29:21Z",
+            "last_commit": "2026-10-02T12:40:50Z",
             "open_issues": 698,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15342,
+            "stars": 15343,
             "topics": [
               "activitypub",
               "angular",
@@ -46,7 +46,7 @@
             "open_issues": 126,
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14615,
+            "stars": 14613,
             "topics": [
               "activitypub",
               "chat",
@@ -102,7 +102,7 @@
             "open_issues": 168,
             "owner": "Plume-org",
             "repo": "Plume",
-            "stars": 2224,
+            "stars": 2223,
             "topics": [
               "activitypub",
               "activitystreams",
@@ -150,7 +150,7 @@
             "id": 310862177,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-01T19:37:20Z",
+            "last_commit": "2026-10-02T22:11:52Z",
             "open_issues": 480,
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
@@ -187,11 +187,11 @@
             "id": 406083592,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T00:50:28Z",
+            "last_commit": "2026-10-03T03:53:52Z",
             "open_issues": 89,
             "owner": "neodb-social",
             "repo": "neodb",
-            "stars": 895,
+            "stars": 892,
             "topics": [
               "activitypub",
               "atproto",
@@ -233,7 +233,7 @@
             "open_issues": 36,
             "owner": "rustodon",
             "repo": "rustodon",
-            "stars": 878,
+            "stars": 877,
             "topics": [
               "activitypub",
               "federated",
@@ -411,7 +411,7 @@
             "open_issues": 6,
             "owner": "hyphacoop",
             "repo": "reader.distributed.press",
-            "stars": 20,
+            "stars": 19,
             "topics": [
               "activitypub",
               "activitypub-client",
@@ -555,7 +555,7 @@
             "id": 100134877,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-01T23:23:19Z",
+            "last_commit": "2026-10-03T04:02:56Z",
             "open_issues": 212,
             "owner": "snarfed",
             "repo": "bridgy-fed",
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:19:40.241Z",
+    "last_updated": "2026-10-03T04:21:49.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
