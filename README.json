@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T12:40:50Z",
-            "open_issues": 698,
+            "open_issues": 702,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15343,
+            "stars": 15344,
             "topics": [
               "activitypub",
               "angular",
@@ -46,7 +46,7 @@
             "open_issues": 126,
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14613,
+            "stars": 14614,
             "topics": [
               "activitypub",
               "chat",
@@ -71,11 +71,11 @@
             "id": 77326607,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T09:35:51Z",
-            "open_issues": 2539,
+            "last_commit": "2026-10-03T10:48:52Z",
+            "open_issues": 2540,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11338,
+            "stars": 11336,
             "topics": [
               "activitypub",
               "federation",
@@ -150,8 +150,8 @@
             "id": 310862177,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-02T22:11:52Z",
-            "open_issues": 480,
+            "last_commit": "2026-10-04T09:47:57Z",
+            "open_issues": 472,
             "owner": "bonfire-networks",
             "repo": "bonfire-app",
             "stars": 942,
@@ -187,7 +187,7 @@
             "id": 406083592,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T03:53:52Z",
+            "last_commit": "2026-10-04T02:53:06Z",
             "open_issues": 89,
             "owner": "neodb-social",
             "repo": "neodb",
@@ -261,7 +261,7 @@
             "open_issues": 78,
             "owner": "ckolderup",
             "repo": "postmarks",
-            "stars": 547,
+            "stars": 545,
             "topics": [
               "activitypub",
               "activitypub-server",
@@ -287,8 +287,8 @@
             "id": 704255347,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T13:31:25Z",
-            "open_issues": 135,
+            "last_commit": "2026-10-03T12:00:20Z",
+            "open_issues": 137,
             "owner": "MbinOrg",
             "repo": "mbin",
             "stars": 430,
@@ -426,6 +426,39 @@
             ]
           },
           "first_seen": "2026-08-28T17:41:41.500Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nextcloud Social",
+          "description": "Federated social network application on Nextcloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎉 Social can be used for work, or to connect to the fediverse!",
+            "homepage": "https://apps.nextcloud.com/apps/social",
+            "id": 147499346,
+            "language": "PHP",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-04T11:11:20Z",
+            "open_issues": 4,
+            "owner": "AlohaSocial",
+            "repo": "social",
+            "stars": 4,
+            "topics": [
+              "activitypub",
+              "federation",
+              "fediverse",
+              "hacktoberfest",
+              "mastodon",
+              "nextcloud",
+              "nextcloud-app",
+              "nextcloud-social",
+              "open-source",
+              "social",
+              "social-network"
+            ]
+          },
+          "first_seen": "2026-10-04T11:16:13.212Z"
         }
       ],
       "title": "Services"
@@ -555,11 +588,11 @@
             "id": 100134877,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-03T04:02:56Z",
-            "open_issues": 212,
+            "last_commit": "2026-10-04T00:42:12Z",
+            "open_issues": 211,
             "owner": "snarfed",
             "repo": "bridgy-fed",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "activitypub",
               "atproto",
@@ -599,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T10:35:22.213Z",
+    "last_updated": "2026-10-04T11:16:13.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
