@@ -43,7 +43,7 @@ Services supporting ActivityPub federation.
 * [anfora](https://github.com/anforaProject/anfora) ⭐ 229 | 🐛 16 | 🌐 Python | 📅 2022-01-23 - Self-hosted photo gallery social network.
 * [Social Inbox](https://github.com/hyphacoop/social.distributed.press) ⭐ 30 | 🐛 25 | 🌐 TypeScript | 📅 2025-07-29 - Social Inbox API enables your website to receive followers and their comments from the Fediverse
 * [Social Reader](https://github.com/hyphacoop/reader.distributed.press) ⭐ 19 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05 - A peer-to-peer, offline ActivityPub client for reading and following microblogs on the Fediverse.
-* [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 5 | 🐛 12 | 🌐 PHP | 📅 2026-10-06 - Federated social network application on Nextcloud.
+* [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 5 | 🐛 15 | 🌐 PHP | 📅 2026-10-06 - Federated social network application on Nextcloud.
 * [Dokieli](https://dokie.li/#introduction) - A clientside editor for decentralised article publishing, annotations and social interactions.
 * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server.
 * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
