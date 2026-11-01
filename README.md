@@ -29,9 +29,9 @@ Information for developers and implementers.
 
 Services supporting ActivityPub federation.
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,378 | 🐛 691 | 🌐 TypeScript | 📅 2026-10-30 - Video streaming platform with ActivityPub and WebTorrent.
-* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,658 | 🐛 121 | 🌐 Rust | 📅 2026-10-30 - Building a federated alternative to reddit in rust.
-* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,367 | 🐛 2,500 | 🌐 TypeScript | 📅 2026-10-31 - Microblogging service based on ActivityPub.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,380 | 🐛 691 | 🌐 TypeScript | 📅 2026-10-30 - Video streaming platform with ActivityPub and WebTorrent.
+* [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,659 | 🐛 124 | 🌐 Rust | 📅 2026-11-01 - Building a federated alternative to reddit in rust.
+* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,368 | 🐛 2,502 | 🌐 TypeScript | 📅 2026-11-01 - Microblogging service based on ActivityPub.
 * [Plume](https://github.com/Plume-org/Plume) ⭐ 2,221 | 🐛 168 | 🌐 Rust | 📅 2025-04-08 - Federated blogging engine with ActivityPub.
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,171 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - a multi-domain ActivityPub social network server, written in Python.
 * [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 948 | 🐛 504 | 🌐 Elixir | 📅 2026-10-30 - a federated digital spaces, written in Elixir
@@ -90,8 +90,8 @@ A little help for implementing ActivityPub.
 
 Connecting the ActivityPub federation with another federation.
 
-* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,249 | 🐛 205 | 🌐 Python | 📅 2026-10-30 - A bridge between IndieWeb and ActivityPub, OStatus.
-* [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) ⭐ 582 | 🐛 24 | 🌐 JavaScript | 📅 2021-10-12 - An RSS to ActivityPub converter.
+* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,249 | 🐛 205 | 🌐 Python | 📅 2026-11-01 - A bridge between IndieWeb and ActivityPub, OStatus.
+* [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) ⭐ 583 | 🐛 24 | 🌐 JavaScript | 📅 2021-10-12 - An RSS to ActivityPub converter.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Hatsu](https://hatsu.cli.rs/) - A self-hosted bridge that interacts with fediverse on behalf of your static site.
 
@@ -107,4 +107,4 @@ Connecting the ActivityPub federation with another federation.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

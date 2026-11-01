@@ -19,7 +19,7 @@
             "open_issues": 691,
             "owner": "Chocobozzz",
             "repo": "PeerTube",
-            "stars": 15378,
+            "stars": 15380,
             "topics": [
               "activitypub",
               "angular",
@@ -42,11 +42,11 @@
             "id": 170729130,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T19:22:48Z",
-            "open_issues": 121,
+            "last_commit": "2026-11-01T01:05:34Z",
+            "open_issues": 124,
             "owner": "LemmyNet",
             "repo": "lemmy",
-            "stars": 14658,
+            "stars": 14659,
             "topics": [
               "activitypub",
               "chat",
@@ -71,11 +71,11 @@
             "id": 77326607,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T09:11:44Z",
-            "open_issues": 2500,
+            "last_commit": "2026-11-01T01:53:12Z",
+            "open_issues": 2502,
             "owner": "misskey-dev",
             "repo": "misskey",
-            "stars": 11367,
+            "stars": 11368,
             "topics": [
               "activitypub",
               "federation",
@@ -588,7 +588,7 @@
             "id": 100134877,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-30T23:19:46Z",
+            "last_commit": "2026-11-01T04:48:35Z",
             "open_issues": 205,
             "owner": "snarfed",
             "repo": "bridgy-fed",
@@ -619,7 +619,7 @@
             "open_issues": 24,
             "owner": "dariusk",
             "repo": "rss-to-activitypub",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "activitypub",
               "rss"
@@ -632,7 +632,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:11:34.973Z",
+    "last_updated": "2026-11-01T12:00:02.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of ActivityPub based projects",
