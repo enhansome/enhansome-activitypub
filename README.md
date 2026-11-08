@@ -29,21 +29,21 @@ Information for developers and implementers.
 
 Services supporting ActivityPub federation.
 
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,391 | 🐛 645 | 🌐 TypeScript | 📅 2026-11-06 - Video streaming platform with ActivityPub and WebTorrent.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) ⭐ 15,392 | 🐛 646 | 🌐 TypeScript | 📅 2026-11-06 - Video streaming platform with ActivityPub and WebTorrent.
 * [Lemmy](https://github.com/dessalines/lemmy) ⭐ 14,670 | 🐛 120 | 🌐 Rust | 📅 2026-11-06 - Building a federated alternative to reddit in rust.
-* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,362 | 🐛 2,495 | 🌐 TypeScript | 📅 2026-11-06 - Microblogging service based on ActivityPub.
+* [Misskey](https://github.com/syuilo/misskey) ⭐ 11,362 | 🐛 2,487 | 🌐 TypeScript | 📅 2026-11-08 - Microblogging service based on ActivityPub.
 * [Plume](https://github.com/Plume-org/Plume) ⭐ 2,221 | 🐛 168 | 🌐 Rust | 📅 2025-04-08 - Federated blogging engine with ActivityPub.
 * [Takahē](https://github.com/jointakahe/takahe) ⭐ 1,172 | 🐛 83 | 🌐 Python | 📅 2024-08-28 - a multi-domain ActivityPub social network server, written in Python.
-* [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 949 | 🐛 481 | 🌐 Elixir | 📅 2026-11-07 - a federated digital spaces, written in Elixir
-* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 906 | 🐛 91 | 🌐 Python | 📅 2026-11-06 - an ActivityPub server tracking and review what you read/watch/listen/play.
+* [Bonfire](https://github.com/bonfire-networks/bonfire-app) ⭐ 948 | 🐛 482 | 🌐 Elixir | 📅 2026-11-07 - a federated digital spaces, written in Elixir
+* [NeoDB](https://github.com/neodb-social/neodb) ⭐ 906 | 🐛 93 | 🌐 Python | 📅 2026-11-06 - an ActivityPub server tracking and review what you read/watch/listen/play.
 * [Rustodon](https://github.com/rustodon/rustodon) ⭐ 876 | 🐛 36 | 🌐 Rust | 📅 2021-07-05 - A Mastodon-compatible, ActivityPub-speaking server in Rust.
 * [Postmarks](https://github.com/ckolderup/postmarks) ⭐ 547 | 🐛 78 | 🌐 JavaScript | 📅 2026-05-15 - A single-user bookmarking server for the Fediverse.
-* [Mbin](https://github.com/MbinOrg/mbin) ⭐ 432 | 🐛 139 | 🌐 PHP | 📅 2026-11-06 - A federated content aggregator, content rating, dissussion and microblogging platform
+* [Mbin](https://github.com/MbinOrg/mbin) ⭐ 432 | 🐛 136 | 🌐 PHP | 📅 2026-11-07 - A federated content aggregator, content rating, dissussion and microblogging platform
 * [Shuttlecraft](https://github.com/benbrown/shuttlecraft) ⭐ 272 | 🐛 50 | 🌐 JavaScript | 📅 2024-05-28 - A single-user ActivityPub server.
 * [anfora](https://github.com/anforaProject/anfora) ⭐ 228 | 🐛 16 | 🌐 Python | 📅 2022-01-23 - Self-hosted photo gallery social network.
 * [Social Inbox](https://github.com/hyphacoop/social.distributed.press) ⭐ 31 | 🐛 25 | 🌐 TypeScript | 📅 2025-07-29 - Social Inbox API enables your website to receive followers and their comments from the Fediverse
 * [Social Reader](https://github.com/hyphacoop/reader.distributed.press) ⭐ 19 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-05 - A peer-to-peer, offline ActivityPub client for reading and following microblogs on the Fediverse.
-* [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 11 | 🐛 12 | 🌐 PHP | 📅 2026-11-07 - Federated social network application on Nextcloud.
+* [Nextcloud Social](https://github.com/nextcloud/social) ⭐ 11 | 🐛 9 | 🌐 PHP | 📅 2026-11-07 - Federated social network application on Nextcloud.
 * [Dokieli](https://dokie.li/#introduction) - A clientside editor for decentralised article publishing, annotations and social interactions.
 * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server.
 * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
@@ -74,10 +74,10 @@ Services supporting ActivityPub federation.
 
 Simple example of implementing ActivityPub.
 
-* [dariusk/express-activitypub](https://github.com/dariusk/express-activitypub) ⭐ 603 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-03 - A very simple reference implementation of an ActivityPub server using Express.js.
+* [dariusk/express-activitypub](https://github.com/dariusk/express-activitypub) ⭐ 600 | 🐛 2 | 🌐 JavaScript | 📅 2025-03-03 - A very simple reference implementation of an ActivityPub server using Express.js.
 * [dsblank/activitypub](https://github.com/dsblank/activitypub) ⭐ 194 | 🐛 5 | 🌐 Python | 📅 2020-05-25 - Prototyping a Python ActivityPub distributed server in Tornado.
 * [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) ⭐ 135 | 🐛 2 | 🌐 Python | 📅 2021-05-24 - An example of ActivityPub server implementation written in Python.
-* [pylodon](https://github.com/rowanlupton/pylodon) ⭐ 101 | 🐛 8 | 🌐 Python | 📅 2018-08-28 - Flask-based ActivityPub server implementation.
+* [pylodon](https://github.com/rowanlupton/pylodon) ⭐ 101 | 🐛 9 | 🌐 Python | 📅 2018-08-28 - Flask-based ActivityPub server implementation.
 
 ## Libraries
 
@@ -90,7 +90,7 @@ A little help for implementing ActivityPub.
 
 Connecting the ActivityPub federation with another federation.
 
-* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,251 | 🐛 202 | 🌐 Python | 📅 2026-11-07 - A bridge between IndieWeb and ActivityPub, OStatus.
+* [Bridgy Fed](https://github.com/snarfed/bridgy-fed) ⭐ 1,252 | 🐛 201 | 🌐 Python | 📅 2026-11-07 - A bridge between IndieWeb and ActivityPub, OStatus.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) ⭐ 583 | 🐛 24 | 🌐 JavaScript | 📅 2021-10-12 - An RSS to ActivityPub converter.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Hatsu](https://hatsu.cli.rs/) - A self-hosted bridge that interacts with fediverse on behalf of your static site.
@@ -107,4 +107,4 @@ Connecting the ActivityPub federation with another federation.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
